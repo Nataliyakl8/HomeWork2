@@ -206,7 +206,7 @@ public class HomeWork2 {
 
 
 
-        for (int i = 1; i < orderAdded.size(); i++) {
+        for (int i = 1; i < orderAdded.size(); i++) {git s
             Assert.assertEquals(orderAdded.get(i).getText(),expectedOder.get(i));
         }
 
